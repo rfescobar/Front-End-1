@@ -1,0 +1,109 @@
+header, .redes{
+    background-color: #222222;
+    color: white;
+}
+
+#barraSuperior{
+    /*height: 20px;*/
+    margin-left: 80px; 
+    font-size: 10px;
+}
+
+h1{
+    color: #3C2313;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    
+}
+
+h2{
+    font-size: 20px;
+    color: white;
+}
+h3{
+    font-size: 15px;
+    color: #3C2313;
+}
+h4{
+    font-size: 15px;
+    color: #F0A83E;
+}
+
+p{
+    font-size: 10px;
+}
+
+#menuRegional{
+    margin-right: 50px;
+    text-align: right;
+}
+
+#barraMenu{
+    background-color: #F0A83E;
+    font-size: 13px;
+    /*height: 62px;*/
+
+}
+
+body{
+    width: 1024px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner{
+    background-image: url('../img/bowl-and-pet-daities-on-green-background\ 1.png');
+    height: 409px;
+}
+
+#saludo{
+    background-color: white;
+    font-size: 30px;
+    height: 54px;
+    margin-left: 628px;
+    margin-top: 246px;
+    width: 365px;
+}
+
+#informacion{
+    height: 19px;
+    margin-left: 740px;
+    margin-top: 303px;
+    width: 190px;
+}
+
+
+#productoStar{
+    background-color: #F0A83E;
+    color: white    ;
+    font-size: 16px;
+    height: 49px;
+    margin-left: 767px;
+    margin-top: 334px;
+    width: 141px;
+}
+
+
+footer{
+    align-items: center;
+    background-color:#3C2313;
+    text-align: center;
+}
+
+footer .contacto{
+    font-size: 20px;
+    text-align: left;
+    margin: 20px;
+}
+
+footer #logoFooter{
+    text-align: right;
+}
+
+footer p{
+    color: #8A8787;
+}
+footer .redes{
+    text-align: center;
+}
+
