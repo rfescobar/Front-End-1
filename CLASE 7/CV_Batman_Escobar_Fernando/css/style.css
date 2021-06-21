@@ -1,0 +1,92 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    margin: 0px;
+}
+
+header {
+    padding-bottom: 104px;
+}
+
+.backlogo {
+    background-color: #E5E5E5;
+    height: 189px;
+}
+
+.logo {
+    display: block;
+    margin: auto;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+.titulo {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+    margin: 0;
+    letter-spacing: 3px;
+}
+
+.container {
+    width: 1041px;
+    margin: auto;
+}
+
+.subt {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 900;
+    width: 1041px;
+    left: 225px;
+    margin: 0;
+    padding-top: 6px;
+    padding-bottom: 7px;
+    padding-left: 9px;
+    top: 352px;
+    letter-spacing: 2px;
+    line-height: 17px;
+}
+
+#vin {
+    list-style-type: disc;
+}
+.vin2 {
+    list-style-type: none;
+}
+.dato {
+    font-style: bold italic;
+}
+
+.footer {
+    background-color: #005677;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding: 1px;
+}
+
+.footerText {
+    display: inline-block;
+    margin-right: 26px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 11px;
+    padding-bottom: 9px;
+}
+
+.footerLi {
+    margin-right: 26px;
+
+}
+
+.itemContent {
+    padding-left: 80px;
+}
